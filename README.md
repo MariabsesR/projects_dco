@@ -1,4 +1,4 @@
-README for Project 2: Board Game Store Management System (LeiGames)
+README for Project: Board Game Store Management System (LeiGames)
 Introduction
 
 This project involves developing a system to support the management of a board game store. The system will manage the sale and rental of board games, as well as provide café services. This specific iteration focuses on essential functionalities related to member management, game inventory, and game rentals.
@@ -21,7 +21,7 @@ Deliverables
 
 
 
-Object-Oriented Programming -Digital Music Manager and Player (LeiTunes)
+README for Project: Digital Music Manager and Player (LeiTunes)
 Project Overview
  The application serves as a digital music manager and player.
 
